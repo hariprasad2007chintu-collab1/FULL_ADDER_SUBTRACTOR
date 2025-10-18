@@ -68,6 +68,7 @@ Full Subractor Logic Diagram![WhatsApp Image 2025-10-18 at 19 43 40_6c087991](ht
 
 **Output Timing Waveform**
 Full Adder Wave Form:![WhatsApp Image 2025-10-18 at 19 44 34_67317358](https://github.com/user-attachments/assets/5ac19c99-d57f-447d-aa0e-693f417359a4)
+Full Subractor Wave Form:![WhatsApp Image 2025-10-18 at 19 45 22_51307b3c](https://github.com/user-attachments/assets/902f8ef0-80c9-47a9-afca-ca426db2ff56)
 
 **Result:**
 
